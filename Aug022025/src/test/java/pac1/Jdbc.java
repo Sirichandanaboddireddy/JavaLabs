@@ -11,7 +11,7 @@ public class Jdbc {
 
 	public static void main(String[] args) throws SQLException {
 		// TODO Auto-generated method stub
-		//This is a test update
+		//This is a test updated
 		String url="jdbc:mysql://127.0.0.1:3306/august4th2025";
 		String user="root";
 		String password="Siri@1234";
